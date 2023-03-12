@@ -6,7 +6,7 @@ public class Main {
     public static void main(String args[]) throws Exception {
         String dbName="jdbc:mysql://localhost:3306/final_project";//url for the db
                 String user="root";//db logins
-                String pass="lafamilia";
+                String pass="xyz";
                 String query=" select * from houses where house_size=\"one bedroom\"";
 
 
